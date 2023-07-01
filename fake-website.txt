@@ -1,4 +1,1 @@
-<< error codde found >>>
-404
-
-fixing the bug
+<< website completed >>>
